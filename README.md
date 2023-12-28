@@ -41,7 +41,7 @@ internsctl --help
 ```
 <img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/help.png" alt="project-screenshot">
 
-<p>8. To print the version</p>
+<p>8. To print the version and manual command script</p>
 
 ```
 internsctl --version
@@ -53,7 +53,7 @@ internsctl --version
 ```
 man internsctl
 ```
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/man.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/man.png" alt="project-screenshot">
 
 <p>10. CPU and memory information</p>
 
@@ -61,8 +61,8 @@ man internsctl
 internsctl cpu getinfo
 internsctl memory getinfo
 ```
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/cpu.png" alt="project-screenshot">
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/memory.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/cpu.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/memory.png" alt="project-screenshot">
 
 <p>11. Create a new user, and list all users or users with and without sudo permissions</p>
 
@@ -70,7 +70,7 @@ internsctl memory getinfo
 internsctl user create newuser_name   
 internsctl user list internsctl user list --sudo-only
 ```
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/intermediate.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/user.png" alt="project-screenshot">
 
 <p>13. Test with options to get specific information about the file</p>
 
@@ -81,7 +81,7 @@ internsctl file getinfo --owner /path/to/hello.txt
 internsctl file getinfo --last-modified /path/to/hello.txt
 ```
 
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/advanced.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/Advance-part3.png" alt="project-screenshot">
   
   
 <h2>💻 Built with</h2>
