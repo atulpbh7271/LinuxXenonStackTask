@@ -39,14 +39,14 @@ chmod +x internsctl
 ```
 internsctl --help
 ```
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/help.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/help.png" alt="project-screenshot">
 
 <p>8. To print the version</p>
 
 ```
 internsctl --version
 ```
-<img src="https://github.com/the-satyajeet/xenonStackLinuxTask/blob/main/screenshots/version.png" alt="project-screenshot">
+<img src="https://github.com/atulpbh7271/LinuxXenonStackTask/blob/main/SnapShots/section-A.png" alt="project-screenshot">
 
 <p>9. T print manual script</p>
 
